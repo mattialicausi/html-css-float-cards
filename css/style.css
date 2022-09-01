@@ -16,12 +16,14 @@ main{
 }
 h1{
     color: rgb(212, 68, 112);
-    margin-top: 10px;
+    margin-top: 20px;
     font-size: 35px;
     text-align: center;
 }
 .paragrafo{
     text-align: center;
+    margin-top: 40px;
+    margin-bottom: 50px;
 }
 img{
     width: 80px;
@@ -35,11 +37,12 @@ img{
     margin-bottom: 5px;
 }
 .rettangoli{
-    border: 1px solid black;
+    border: 1px black;
     background-color: rgb(15, 14, 22);
     width: calc((100% - 30px) / 3);
     height: 80px;
     float: left;
+    box-shadow: 2px 1px 1px 1px;
     
 }
 h4{
