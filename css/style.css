@@ -6,4 +6,29 @@
 }
 .contenitore{
     font-family: Fredoka;
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    
+
+}
+/* modifico layout */
+main{
+    margin-top: 20px;
+}
+img{
+    width: 80px;
+    height: auto;
+    float: left;
+}
+.rettangoli{
+    border: 1px solid black;
+    width: calc(100% / 3);
+    float: left;
+}
+h4{
+    font-size: 10px;
+}
+.email{
+    font-size: 10px;
 }
